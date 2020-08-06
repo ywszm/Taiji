@@ -3,8 +3,7 @@ let style = document.querySelector("#style");
 
 let string = `
 /*
- 你好，我是一名前端新人
- 接下来我要演示一下我的前端功底
+ 这是一个会动的太极
  首先我要准备一个 div
 */
 #div1{

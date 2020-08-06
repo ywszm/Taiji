@@ -15,7 +15,7 @@
 }
 #div1 {
   position: fixed;
-  left: 50%;
+  left: 43%;
   top: 20px;
 }
 #div1::before {
@@ -36,10 +36,12 @@
   }
   #div1Wrapper {
     height: 50vh;
+    position: relative;
   }
   #div1 {
     position: fixed;
     top: 10px;
     right: 10px;
+    margin-right: 20px;
   }
 }
